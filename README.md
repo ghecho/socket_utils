@@ -1,5 +1,5 @@
 #Socket Utilities
-######By Diego Márquez Arzate
+##By Diego Márquez Arzate
 
 This is a small library to work with UDP sockets.
 
